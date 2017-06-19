@@ -1,5 +1,8 @@
 # vue2-Demo
 
+
+**如有帮助谢谢star**   :star::star::star::star::star:
+
 > vue
 
 ## Build Setup
