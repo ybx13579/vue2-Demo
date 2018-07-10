@@ -3,9 +3,8 @@
 
 **如有帮助谢谢star**   :star::star::star::star::star:
 
-> vue  步骤 
 
-## Build Setup
+## vue  步骤 
 
 ``` bash
 # install dependencies
@@ -23,5 +22,5 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 
 
-。
+
 
